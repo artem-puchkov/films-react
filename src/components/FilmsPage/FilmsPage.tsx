@@ -84,5 +84,5 @@ async function getPartOfPopularFilms(page: number) {
         page === 1 ?
             films.slice(0, 6) :
             films.slice(6 * (page - 1), 6 * page)
-    )
+    ) 
 }
