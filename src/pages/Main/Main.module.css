@@ -1,0 +1,8 @@
+.mainPage {
+    position: relative;
+    width: 1280px;
+    height: 883px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.50);
+}

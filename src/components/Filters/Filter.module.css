@@ -1,0 +1,41 @@
+.block {
+    width: 298px;
+    margin-top: 24px;
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.sortTitle {
+    margin-top: 35px;
+    margin-left: 15px;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.70);
+}
+
+.selctWrapper {
+    position: relative;
+}
+
+.sortSelect {
+    height: 24px;
+    width: 268px;
+    margin-top: 10px;
+    margin-left: 15px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    border: none;
+    outline: none;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none; 
+    border-bottom: 1px solid rgba(0, 0, 0, 0.50);
+    font-size: 16px;
+}
+
+.image {
+    position: absolute;
+    top: 5px;
+    right: 12px;
+    pointer-events: none;
+}
+
